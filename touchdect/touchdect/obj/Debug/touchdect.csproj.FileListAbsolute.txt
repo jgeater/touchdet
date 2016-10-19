@@ -1,0 +1,6 @@
+C:\Users\jgeau\Documents\Visual Studio 2015\MY_Projects\touchdect\touchdect\bin\Debug\touchdect.exe.config
+C:\Users\jgeau\Documents\Visual Studio 2015\MY_Projects\touchdect\touchdect\bin\Debug\touchdect.exe
+C:\Users\jgeau\Documents\Visual Studio 2015\MY_Projects\touchdect\touchdect\bin\Debug\touchdect.pdb
+C:\Users\jgeau\Documents\Visual Studio 2015\MY_Projects\touchdect\touchdect\obj\Debug\touchdect.csprojResolveAssemblyReference.cache
+C:\Users\jgeau\Documents\Visual Studio 2015\MY_Projects\touchdect\touchdect\obj\Debug\touchdect.exe
+C:\Users\jgeau\Documents\Visual Studio 2015\MY_Projects\touchdect\touchdect\obj\Debug\touchdect.pdb

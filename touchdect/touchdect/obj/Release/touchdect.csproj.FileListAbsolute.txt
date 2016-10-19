@@ -1,0 +1,5 @@
+C:\Users\jgeau\Documents\Visual Studio 2015\MY_Projects\touchdect\touchdect\bin\Release\touchdect.exe.config
+C:\Users\jgeau\Documents\Visual Studio 2015\MY_Projects\touchdect\touchdect\bin\Release\touchdect.exe
+C:\Users\jgeau\Documents\Visual Studio 2015\MY_Projects\touchdect\touchdect\bin\Release\touchdect.pdb
+C:\Users\jgeau\Documents\Visual Studio 2015\MY_Projects\touchdect\touchdect\obj\Release\touchdect.exe
+C:\Users\jgeau\Documents\Visual Studio 2015\MY_Projects\touchdect\touchdect\obj\Release\touchdect.pdb
