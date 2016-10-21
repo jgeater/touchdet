@@ -19,8 +19,6 @@ If ($touchpoints -gt "0")
     Write-Host "your system has $touchpoints touchpoints availible."
     }
 
-source code availible upon request 
-
 Basic Design: 
 this uses GetSystemMetric and SM_MAXIMUMTOUCHES to get the number of touchpoints availible to the system
 https://msdn.microsoft.com/en-us/library/ms724385(VS.85).aspx
